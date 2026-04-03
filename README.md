@@ -48,23 +48,34 @@ Trained multiple models such as:
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 # 5. Model Evaluation
-Compared models using performance metrics
-Selected the best-performing model based on accuracy and generalization
+- Compared models using performance metrics
+- Selected the best-performing model based on accuracy and generalization
 # Key Insights
-Players with higher kills and damage generally perform better
-Movement (walk distance) is a strong indicator of survival
-Passive players (low movement + low combat) tend to rank lower
-Balanced gameplay (movement + combat) leads to higher winning probability
+- Players with higher kills and damage generally perform better
+- Movement (walk distance) is a strong indicator of survival
+- Passive players (low movement + low combat) tend to rank lower
+- Balanced gameplay (movement + combat) leads to higher winning probability
 
 # Results
-The best-performing model achieved strong predictive accuracy
-Feature importance analysis revealed the most influential factors affecting performance
+- The best-performing model achieved strong predictive accuracy
+- Feature importance analysis revealed the most influential factors affecting performance
 
 # Future Improvements
-Hyperparameter tuning for better performance
-Advanced models (XGBoost, LightGBM)
-Deployment using Flask/Streamlit
-Real-time prediction system
+- Hyperparameter tuning for better performance
+- Advanced models (XGBoost, LightGBM)
+- Deployment using Flask/Streamlit
+- Real-time prediction system
 
+## Author
+
+**Anjali Versha**
+
+---
+
+## License
+
+This project is open-source and available under the MIT License.
+
+---
 
 If you like this project, don’t forget to star the repository!
