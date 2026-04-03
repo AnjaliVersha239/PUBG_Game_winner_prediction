@@ -59,8 +59,12 @@ Balanced gameplay (movement + combat) leads to higher winning probability
 # Results
 The best-performing model achieved strong predictive accuracy
 Feature importance analysis revealed the most influential factors affecting performance
-# Project Structure
-# Game-Winner-Prediction
-GameWinnerPred_final.ipynb
- README.md
- dataset (if included)
+
+# Future Improvements
+Hyperparameter tuning for better performance
+Advanced models (XGBoost, LightGBM)
+Deployment using Flask/Streamlit
+Real-time prediction system
+
+
+If you like this project, don’t forget to star the repository!
